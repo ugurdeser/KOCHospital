@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Dsf2U+PXZk=",
+  "dgSpecHash": "qz0imRTC14Q=",
   "success": true,
-  "projectFilePath": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\KOCHospital.csproj",
+  "projectFilePath": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\KOCHospital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ugurd\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ugurd\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

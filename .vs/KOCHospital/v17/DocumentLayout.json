@@ -1,46 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\",
+  "WorkspaceRootPath": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\appointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:appointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\context\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\context\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:context\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\patients.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:patients.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\appointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:appointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\hospital.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:hospital.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\model\\patienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:model\\patienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\9.hafta\\2.gun_ef\\efcodefirst\\kochospital\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|d:\\yazilim\\yusuf abi dersler\\gitprojects\\kochospital\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512CFBC8-4B1C-4DA2-92FE-1E91D641B570}|KOCHospital.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,84 +91,187 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainMenu.Designer.cs",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\MainMenu.Designer.cs",
-              "RelativeDocumentMoniker": "MainMenu.Designer.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\MainMenu.Designer.cs",
-              "RelativeToolTip": "MainMenu.Designer.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwDoAAAAPAAAA",
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Hospital.cs",
+              "RelativeToolTip": "Hospital.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwHsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:28:38.665Z",
+              "WhenOpened": "2024-09-14T15:52:54.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainMenu.cs [Design]",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\MainMenu.cs",
-              "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\MainMenu.cs [Design]",
-              "RelativeToolTip": "MainMenu.cs [Design]",
+              "Title": "Hospital.cs [Design]",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Hospital.cs [Design]",
+              "RelativeToolTip": "Hospital.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:28:24.877Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-14T15:52:45.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Patients.cs [Design]",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Patients.cs",
-              "RelativeDocumentMoniker": "Patients.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Patients.cs [Design]",
-              "RelativeToolTip": "Patients.cs [Design]",
+              "Title": "Appointments.cs [Design]",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Appointments.cs",
+              "RelativeDocumentMoniker": "Appointments.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Appointments.cs [Design]",
+              "RelativeToolTip": "Appointments.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:28:21.99Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-10T18:28:12.818Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Appointments.Designer.cs",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Appointments.Designer.cs",
-              "RelativeDocumentMoniker": "Appointments.Designer.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Appointments.Designer.cs",
-              "RelativeToolTip": "Appointments.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Appointments.cs",
+              "RelativeDocumentMoniker": "Appointments.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Appointments.cs",
+              "RelativeToolTip": "Appointments.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:28:16.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T21:45:29.379Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Appointments.cs [Design]",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Appointments.cs",
-              "RelativeDocumentMoniker": "Appointments.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Appointments.cs [Design]",
-              "RelativeToolTip": "Appointments.cs [Design]",
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Context\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "Context\\HospitalContext.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Context\\HospitalContext.cs",
+              "RelativeToolTip": "Context\\HospitalContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:28:12.818Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-08T08:33:56.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Model\\Appointment.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\Appointment.cs",
               "RelativeDocumentMoniker": "Model\\Appointment.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Model\\Appointment.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\Appointment.cs",
               "RelativeToolTip": "Model\\Appointment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T08:38:07.855Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\Doctor.cs",
+              "RelativeDocumentMoniker": "Model\\Doctor.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\Doctor.cs",
+              "RelativeToolTip": "Model\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:38:55.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\MainMenu.cs [Design]",
+              "RelativeToolTip": "MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:28:24.877Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Patients.cs [Design]",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Patients.cs",
+              "RelativeDocumentMoniker": "Patients.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Patients.cs [Design]",
+              "RelativeToolTip": "Patients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:28:21.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patients.Designer.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Patients.Designer.cs",
+              "RelativeDocumentMoniker": "Patients.Designer.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Patients.Designer.cs",
+              "RelativeToolTip": "Patients.Designer.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAawCUBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:16:28.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointments.Designer.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Appointments.Designer.cs",
+              "RelativeDocumentMoniker": "Appointments.Designer.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Appointments.Designer.cs",
+              "RelativeToolTip": "Appointments.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAawGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:28:16.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hospital.Designer.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Hospital.Designer.cs",
+              "RelativeDocumentMoniker": "Hospital.Designer.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Hospital.Designer.cs",
+              "RelativeToolTip": "Hospital.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:52:47.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Model\\Department.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\Department.cs",
+              "RelativeToolTip": "Model\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:38:56.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Patients.cs",
+              "RelativeDocumentMoniker": "Patients.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Patients.cs",
+              "RelativeToolTip": "Patients.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAawE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:15:11.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientHistory.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\PatientHistory.cs",
+              "RelativeDocumentMoniker": "Model\\PatientHistory.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\PatientHistory.cs",
+              "RelativeToolTip": "Model\\PatientHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:39:02.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Patient.cs",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Model\\Patient.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\Patient.cs",
               "RelativeDocumentMoniker": "Model\\Patient.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Model\\Patient.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\Model\\Patient.cs",
               "RelativeToolTip": "Model\\Patient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,41 +279,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HospitalContext.cs",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Context\\HospitalContext.cs",
-              "RelativeDocumentMoniker": "Context\\HospitalContext.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Context\\HospitalContext.cs",
-              "RelativeToolTip": "Context\\HospitalContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowB0AAAAzAAAA",
+              "DocumentIndex": 16,
+              "Title": "MainMenu.Designer.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\MainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "MainMenu.Designer.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\MainMenu.Designer.cs",
+              "RelativeToolTip": "MainMenu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T08:33:56.536Z"
+              "WhenOpened": "2024-09-10T18:28:38.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Patients.cs",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Patients.cs",
-              "RelativeDocumentMoniker": "Patients.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Patients.cs",
-              "RelativeToolTip": "Patients.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA8AAAA",
+              "DocumentIndex": 17,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T21:15:11.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Appointments.cs",
-              "DocumentMoniker": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Appointments.cs",
-              "RelativeDocumentMoniker": "Appointments.cs",
-              "ToolTip": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\Appointments.cs",
-              "RelativeToolTip": "Appointments.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwC8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T21:45:29.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T13:05:23.075Z"
             }
           ]
         }

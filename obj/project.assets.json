@@ -4375,11 +4375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\KOCHospital.csproj",
+      "projectUniqueName": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\KOCHospital.csproj",
       "projectName": "KOCHospital",
-      "projectPath": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\KOCHospital.csproj",
+      "projectPath": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\KOCHospital.csproj",
       "packagesPath": "C:\\Users\\ugurd\\.nuget\\packages\\",
-      "outputPath": "D:\\Yazilim\\Yusuf Abi Dersler\\9.Hafta\\2.Gun_EF\\EFCodeFirst\\KOCHospital\\obj\\",
+      "outputPath": "D:\\Yazilim\\Yusuf Abi Dersler\\GitProjects\\KOCHospital\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
